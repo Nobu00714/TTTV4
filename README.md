@@ -3,7 +3,7 @@ TTTV4のAndroidアプリのUnityプログラム、M5StickCPlus2用のArduinoコ�
 Recommended Unity Version：Unity2022.3.52f1<br>
 TTTV4/TTTV4_Android_App_UnityをUnity Hubから開く<br>
 AssetにFontフォルダーを作成し、NotoSansJPをインポートすることで日本語を使用可能（[参考資料](https://zenn.dev/kametani256/articles/63c083ab318136)）<br>
-WISS2024DemoSceneを開く
+WISS2024DemoSceneを開く<br>
 Canvas/GPT Taste EstimationのApi Keyに自分のGPT APIキーを設定することでGPTによる味推定機能が利用可能
-
+---
 
